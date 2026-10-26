@@ -1,3 +1,5 @@
-# Adirondack Craftworks, design Preview B · Forest & Timber
+# Adirondack Craftworks, design preview B: Forest and Timber
 
-Mock-up only. Not the live site (that is mjn3000git/adirondackcraftworks). Pages are marked noindex, nofollow.
+Static site served by GitHub Pages from main. Pages are marked noindex.
+
+Inquiry form: paste the Formspree form ID into FORMSPREE_ID at the top of js/inquiry.js. While it is empty, only the email and phone links show.
